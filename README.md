@@ -1,6 +1,5 @@
 # HTML-CSS-Interview-Questions
 
-
 ---
 
 # 🌐 HTML
